@@ -6,8 +6,8 @@
 #### pip install jupyterlab
 #### run the entire Jupyter notebook which will generate 2 output files in 2 output folder
 
-## Part 2, Excercise 3,4:
+## Part 2, Exercise 3,4:
 #### All the answers are in Word file named Excercise Data Engineering
 
-## Spread sheet/analytics exercise:
+## Exercise 2 - Spread sheet/analytics exercise:
 #### Is in folder Excel_sheet
