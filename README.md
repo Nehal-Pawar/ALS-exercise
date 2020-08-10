@@ -8,6 +8,7 @@
 
 ## Part 2, Exercise 3,4:
 #### All the answers are in Word file named Excercise Data Engineering
+#### Answer to question in Exercise 2 are also in this file
 
 ## Exercise 2 - Spread sheet/analytics exercise:
 #### Is in folder Excel_sheet
